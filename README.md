@@ -71,5 +71,8 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📊 Screenshots (Optional)
-> You can add screenshots of your ServiceNow dashboards and reports here to make your README more interactive.
+> You can add screenshots of your ServiceNo!
+[WhatsApp Image 2025-09-06 at 11 50 38_661fe884](https://github.com/user-attachments/assets/6ec23656-ab24-4f76-8072-64529b09f658)
+w dashboards and reports here to make your README more interactive.
+
 
